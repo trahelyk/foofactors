@@ -13,3 +13,5 @@
 fbind <- function(a, b) {
   factor(c(as.character(a), as.character(b)))
 }
+
+# Just putting a comment in here for purposes of exploring git functions.
